@@ -1,0 +1,8 @@
+../Core/Src/kernel.c:23:6:osYield	1
+../Core/Src/kernel.c:26:6:osSched	1
+../Core/Src/kernel.c:32:6:osKernelInitialize	1
+../Core/Src/kernel.c:45:6:osKernelStart	1
+../Core/Src/kernel.c:48:5:osCreateThread	4
+../Core/Src/kernel.c:70:5:osCreateThreadWithDeadline	4
+../Core/Src/kernel.c:92:11:stackAllocator	2
+../Core/Src/kernel.c:104:6:SVC_Handler_Main	6
